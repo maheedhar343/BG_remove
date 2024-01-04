@@ -12,6 +12,6 @@ uplode the image and get it without background
 
 [https://bgremove-mahi.streamlit.app/]
 
-##open to take inputs
-### Fork to this project if you hve any inputs to make it more effective.
+## open to take inputs
+### Fork to this project if you have any inputs to make it more effective.
 
