@@ -1,4 +1,17 @@
-*****This is a read app of background removal*****
-**you can visit my Background removing app in this link**
-[link] https://bgremove-mahi.streamlit.app/
-***which is hosting in streamlit***
+# Background Removal Streamlit Project
+
+This repository contains a Streamlit project for background removal using [streamlit
+rembg
+pillow].
+
+## Overview
+
+uplode the image and get it without background
+
+## Demo
+
+[https://bgremove-mahi.streamlit.app/]
+
+##open to take inputs
+### Fork to this project if you hve any inputs to make it more effective.
+
